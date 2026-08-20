@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on frontend development skills through real-world projects<br>👯 I’m looking to collaborate on web apps and open-source projects<br>🤝 I’m looking for help with advanced JavaScript concepts and backend integration<br>🌱 I’m currently learning React, Next.js, and modern UI/UX practices<br>💬 Ask me about getting started in web development<br>⚡ Fun fact: I enjoy solving problems step-by-step and turning ideas into working products
+Passionate Web Developer building modern, responsive, and user-focused digital experiences. <br>
+I enjoy turning ideas into clean, functional websites and continuously learning new technologies.<br>
+Open to opportunities, collaborations, and exciting projects.
+
 
 
 ## 🌐 Socials:
